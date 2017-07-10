@@ -1,1 +1,1 @@
-confirm("Ce site a été concu afin d'être visioné uniquement sur ordinateur afin d'optimiser la qualité des photos. La bise, Guillaume");
+confirm("Ce site a été concu afin d'être visioné uniquement sur ordinateur dans le but de garantir une qualité de photo optimal. Le visualiser sur tout autre appareil entrainera une déformation des photos. La bise, Guillaume");
