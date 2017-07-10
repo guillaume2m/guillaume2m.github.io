@@ -41,22 +41,26 @@ span{
     background-size:cover;
     background-repeat:no-repeat;
     background-position: top center;
-    width:100%;
-    height:85%;
+    background-repeat:no-repeat;
+    background-size:cover;
+    margin-top:1px;
+    background-attachment:fixed;
+    background-position: center center;
+    overflow:scroll;
+    padding-top:7%;
+    height: 800px;
     font-size:2rem;
     color:white;
     text-align:center;
     font-family:'Raleway',Georgia, serif;
-    margin-top:10px;
-    margin-bottom:0px;
-    background-attachment:fixed;
-    overflow:scroll;
+    padding-bottom: 70%;
+
 
     }
 #intro-text{
     position:relative;
     border:1px white solid;
-    top: 35%;
+    top: 25%;
     width: 60%;
     margin:auto;
     padding:6px;
@@ -65,7 +69,7 @@ span{
 
 #sommaire{
     position:relative;
-    top:100%;
+    top:90%;
     width:70%;
     margin:auto;
     border: 1px white solid;
@@ -76,10 +80,7 @@ span{
   /** Ensemble class pour Historie**/
 
 .text{
-    position:relative;
-    top:30%;
-    width:70%;
-    margin:auto;
+
     font-family:'Raleway',Georgia, serif;
     font-size: 1.4rem;
     line-height: 2rem;
@@ -88,16 +89,22 @@ span{
     text-align:center;
     background-color:rgba(0,0,0,0.2);
     overflow:scroll;
-    margin-bottom:7%;
-    max-height:50%;
-    padding:3px 3px;
+
+    position:relative;
+    margin-bottom:10%;
+    margin-top: 13%;
+    max-height:300px;
+    margin-left:15%;
+    margin-right: 15%;
+    max-width:70%;
+    padding:10px 10px;
+
 
     }
 
 .nom-chap{
     position:relative;
-    width:48%;
-    top: 10%;
+    width:50%;
     margin:auto;
     font-size:1.7rem;
     color:white;
@@ -114,12 +121,15 @@ span{
 #Carrey{
     background-image:url("https://s3.eu-west-2.amazonaws.com/stjean/IMG_1327.JPG");
     background-repeat:no-repeat;
-    height:100%;
     background-size:cover;
     margin-top:1px;
     background-attachment:fixed;
-    background-position: top center;
+    background-position: center center;
     overflow:scroll;
+    padding-top:10%;
+    height: 800px;
+
+
  }
 
     /**3e Image**/
@@ -127,43 +137,47 @@ span{
 #Curel{
     background-image:url("https://s3.eu-west-2.amazonaws.com/stjean/alle%CC%81e+SJA.JPG");
     background-repeat:no-repeat;
-    height:100%;
     background-size:cover;
     margin-top:1px;
     background-attachment:fixed;
-    background-position: top center;
+    background-position: center center;
     overflow:scroll;
+    padding-top:7%;
+    height: 800px;
     }
 
    /** 4e Image**/
- #300{
-    background-image:url("https://s3.eu-west-2.amazonaws.com/stjean/rivie%CC%80re+jaune+.JPG");
+ #riviere{
+    background-image:url("https://s3.eu-west-2.amazonaws.com/stjean/rivie%CC%80re+jaune+SJA.JPG");
     background-repeat:no-repeat;
-    height:100%;
     background-size:cover;
     margin-top:1px;
     background-attachment:fixed;
-    background-position: top center;
+    background-position: center center;
     overflow:scroll;
+    padding-top:7%;
+    height: 800px;
        }
 #Duche{
     background-image:url("https://s3.eu-west-2.amazonaws.com/stjean/vue+de+haut+.jpg");
     background-repeat:no-repeat;
-    height:100%;
     background-size:cover;
     margin-top:1px;
     background-attachment:fixed;
-    background-position: top center;
+    background-position: center center;
     overflow:scroll;
+    padding-top:7%;
+    height: 800px;
     }
 #Laron{background-image:url("https://s3.eu-west-2.amazonaws.com/stjean/arrie%CC%80re.jpg");
-background-repeat:no-repeat;
-    height:100%;
-    background-size:cover;
-    margin-top:1px;
-    background-attachment:fixed;
-    background-position: top center;
-    overflow:scroll;
+      background-repeat:no-repeat;
+      background-size:cover;
+      margin-top:1px;
+      background-attachment:fixed;
+      background-position: center center;
+      overflow:scroll;
+      padding-top:7%;
+      height: 800px;
 
     }
 #copyright{
@@ -182,3 +196,4 @@ background-repeat:no-repeat;
 
 
     }
+
