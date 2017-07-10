@@ -138,13 +138,12 @@ span{
 #Curel{
     background-image:url("https://s3.eu-west-2.amazonaws.com/stjean/alle%CC%81e+SJA.JPG");
     background-repeat:no-repeat;
-    background-size:cover;
+    background-size:contain;
     margin-top:1px;
     background-attachment:fixed;
     background-position: center center;
     overflow:scroll;
     padding-top:12%;
-    height: 800px;
   overflow-y: scroll;
     }
 
