@@ -121,7 +121,7 @@ span{
 #Carrey{
     background-image:url("https://s3.eu-west-2.amazonaws.com/stjean/IMG_1327.JPG");
     background-repeat:no-repeat;
-    background-size:contain;
+    background-size:cover;
     margin-top:1px;
     background-attachment:fixed;
     background-position: center center;
@@ -138,7 +138,7 @@ span{
 #Curel{
     background-image:url("https://s3.eu-west-2.amazonaws.com/stjean/alle%CC%81e+SJA.JPG");
     background-repeat:no-repeat;
-    background-size:contain;
+    background-size:cover;
     margin-top:1px;
     background-attachment:fixed;
     background-position: center center;
@@ -163,7 +163,7 @@ span{
 #Duche{
     background-image:url("https://s3.eu-west-2.amazonaws.com/stjean/vue+de+haut+.jpg");
     background-repeat:no-repeat;
-    background-size:contain;
+    background-size:cover;
     margin-top:1px;
     background-attachment:fixed;
     background-position: center center;
