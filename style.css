@@ -38,7 +38,7 @@ span{
 
 #intro{
     background:url("https://s3.eu-west-2.amazonaws.com/stjean/IMG_0425.JPG");
-    background-size:cover;
+    background-size:contain;
     background-repeat:no-repeat;
     background-position: top center;
     background-repeat:no-repeat;
@@ -121,7 +121,7 @@ span{
 #Carrey{
     background-image:url("https://s3.eu-west-2.amazonaws.com/stjean/IMG_1327.JPG");
     background-repeat:no-repeat;
-    background-size:cover;
+    background-size:contain;
     margin-top:1px;
     background-attachment:fixed;
     background-position: center center;
@@ -151,7 +151,7 @@ span{
  #riviere{
     background-image:url("https://s3.eu-west-2.amazonaws.com/stjean/rivie%CC%80re+jaune+SJA.JPG");
     background-repeat:no-repeat;
-    background-size:cover;
+    background-size:contain;
     margin-top:1px;
     background-attachment:fixed;
     background-position: center center;
@@ -163,7 +163,7 @@ span{
 #Duche{
     background-image:url("https://s3.eu-west-2.amazonaws.com/stjean/vue+de+haut+.jpg");
     background-repeat:no-repeat;
-    background-size:cover;
+    background-size:contain;
     margin-top:1px;
     background-attachment:fixed;
     background-position: center center;
@@ -174,7 +174,7 @@ span{
     }
 #Laron{background-image:url("https://s3.eu-west-2.amazonaws.com/stjean/arrie%CC%80re.jpg");
       background-repeat:no-repeat;
-      background-size:cover;
+      background-size:contain;
       margin-top:1px;
       background-attachment:fixed;
       background-position: center center;
