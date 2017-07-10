@@ -121,7 +121,7 @@ span{
 #Carrey{
     background-image:url("https://s3.eu-west-2.amazonaws.com/stjean/IMG_1327.JPG");
     background-repeat:no-repeat;
-    background-size:contain;
+    background-size:cover;
     margin-top:1px;
     background-attachment:fixed;
     background-position: center center;
