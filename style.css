@@ -205,3 +205,7 @@ span{
     background-size: cover;
   }
 }
+@media only screen and (max-width:480px){
+  #Curel {background-size: cover;}
+}
+
