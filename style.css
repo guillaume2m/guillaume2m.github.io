@@ -111,11 +111,13 @@ span{
   #sommaire{
       position:relative;
       width:70%;
+      top:1000px;
       margin:auto;
       border: 1px white solid;
       margin-bottom:10%;
       text-align:center;}
-margin-top:100%;
+;
+
 .text{
 
     font-family:'Raleway',Georgia, serif;
@@ -235,10 +237,8 @@ margin-top:100%;
 @media only screen and (max-width:480px){
  #Laron {
    background-image:url("https://s3.eu-west-2.amazonaws.com/stjean/arrie%CC%80re.jpg");
-   background-size:cover;
+   background-size:contain;
    background-repeat:no-repeat;
-   height:100%;
-   width:100%;
   }
 }/**
 @media only screen and (min-width:768px) and (max-width:1024px){
