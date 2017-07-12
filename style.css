@@ -232,11 +232,12 @@ span{
     text-align:center;
     color:#14213D;
     }
-/**@media only screen and (max-width:480px){
- #Laron #Duche  #riviere #Curel #Carrey{
-    height:480px;
+@media only screen and (max-width:480px){
+ #Laron {
+   background-image:url("https://s3.eu-west-2.amazonaws.com/stjean/arrie%CC%80re.jpg");
+   background-size:contain;
   }
-}
+}/**
 @media only screen and (min-width:768px) and (max-width:1024px){
  #Laron #Duche  #riviere #Curel #Carrey{
     height:768px;
