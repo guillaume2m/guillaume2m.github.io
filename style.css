@@ -110,12 +110,12 @@ span{
 
   #sommaire{
       position:relative;
-      top:800px;
       width:70%;
       margin:auto;
       border: 1px white solid;
       margin-bottom:10%;
-        text-align:center;}
+      text-align:center;}
+margin-top:100%;
 .text{
 
     font-family:'Raleway',Georgia, serif;
