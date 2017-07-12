@@ -208,12 +208,14 @@ span{
     }
 #Laron{background-image:url("https://s3.eu-west-2.amazonaws.com/stjean/arrie%CC%80re.jpg");
       background-repeat:no-repeat;
-      background-size:200px 200px;
+     /** background-size:cover;**/
       margin-top:1px;
       background-attachment:fixed;
       background-position: center center;
       overflow:scroll;
       padding-top:12%;
+  width:200px;
+  height:200px;
       
 
 
