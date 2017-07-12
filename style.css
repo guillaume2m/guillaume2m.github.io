@@ -198,7 +198,10 @@ span{
     font-family:'Raleway',Georgia, serif;
     font-size: 1.2rem;
     text-align:center;
-
-
+ 
     }
-
+@media only screen and (max-width:480px){
+  #Laron #Duche  #riviere #Curel #Carrey{
+    background-size: cover;
+  }
+}
