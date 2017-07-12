@@ -206,9 +206,9 @@ span{
     padding-top:12%;
     height:800px;
     }
-#Laron{background-image:url("https://s3.eu-west-2.amazonaws.com/stjean/arrie%CC%80re.jpg");
+#Laron{/**background-image:url("https://s3.eu-west-2.amazonaws.com/stjean/arrie%CC%80re.jpg");
       background-repeat:no-repeat;
-      background-size:cover;
+      background-size:cover;**/
       margin-top:1px;
       background-attachment:fixed;
       background-position: center center;
@@ -243,12 +243,12 @@ span{
     height:768px;
   }
 }
-
+**/
 @media only screen and (min-width:1024px) and (max-width:1600px){
- #Laron #Duche  #riviere #Curel #Carrey{
-    height:1600px;
-  }
-}
+#Laron{background-image:url("https://s3.eu-west-2.amazonaws.com/stjean/arrie%CC%80re.jpg");
+      background-repeat:no-repeat;
+      background-size:cover;
+}/**
 @media only screen and (min-width:1600px){
  #Laron #Duche  #riviere #Curel #Carrey{
     height:2000px;
