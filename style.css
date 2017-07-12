@@ -47,6 +47,7 @@ span{
     background-attachment:fixed;
     background-position: center center;
     overflow:scroll;
+  height:800px;
     padding-top:7%;
     font-size:2rem;
     color:white;
@@ -196,23 +197,23 @@ span{
  
     }
 @media only screen and (max-width:480px){
-  #intro #Laron #Duche  #riviere #Curel #Carrey{
+ #Laron #Duche  #riviere #Curel #Carrey{
     height:480px;
   }
 }
 @media only screen and (min-width:768px) and (max-width:1024px){
-  #intro #Laron #Duche  #riviere #Curel #Carrey{
+ #Laron #Duche  #riviere #Curel #Carrey{
     height:768px;
   }
 }
 
 @media only screen and (min-width:1024px) and (max-width:1600px){
-#intro #Laron #Duche  #riviere #Curel #Carrey{
+ #Laron #Duche  #riviere #Curel #Carrey{
     height:1600px;
   }
 }
 @media only screen and (min-width:1600px){
-#intro #Laron #Duche  #riviere #Curel #Carrey{
+ #Laron #Duche  #riviere #Curel #Carrey{
     height:2000px;
   }
 }
