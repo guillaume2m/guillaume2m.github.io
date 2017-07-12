@@ -48,7 +48,6 @@ span{
     background-position: center center;
     overflow:scroll;
     padding-top:7%;
-    height: 800px;
     font-size:2rem;
     color:white;
     text-align:center;
@@ -127,7 +126,6 @@ span{
     background-position: center center;
     overflow:scroll;
     padding-top:12%;
-    height: 800px;
   overflow-y: scroll;
 
 
@@ -157,7 +155,7 @@ span{
     background-position: center center;
     overflow:scroll;
     padding-top:12%;
-    height: 800px;
+   
    overflow-y: scroll;
        }
 #Duche{
@@ -169,7 +167,6 @@ span{
     background-position: center center;
     overflow:scroll;
     padding-top:12%;
-    height: 800px;
   overflow-y: scroll;
     }
 #Laron{background-image:url("https://s3.eu-west-2.amazonaws.com/stjean/arrie%CC%80re.jpg");
@@ -180,8 +177,6 @@ span{
       background-position: center center;
       overflow:scroll;
       padding-top:12%;
-      hheight: 100%;
-      width:100%;
       overflow-y: scroll;
 
     }
@@ -201,11 +196,23 @@ span{
  
     }
 @media only screen and (max-width:480px){
-  #Laron #Duche  #riviere #Curel #Carrey{
-    background-size: cover;
+  #intro #Laron #Duche  #riviere #Curel #Carrey{
+    height:480px;
   }
 }
-@media only screen and (max-width:480px){
-  #Curel {background-size: cover;}
+@media only screen and (min-width:768px) and (max-width:1024px){
+  #intro #Laron #Duche  #riviere #Curel #Carrey{
+    height:768px;
+  }
 }
 
+@media only screen and (min-width:1024px) and (max-width:1600px){
+#intro #Laron #Duche  #riviere #Curel #Carrey{
+    height:1600px;
+  }
+}
+@media only screen and (min-width:1600px){
+#intro #Laron #Duche  #riviere #Curel #Carrey{
+    height:2000px;
+  }
+}
