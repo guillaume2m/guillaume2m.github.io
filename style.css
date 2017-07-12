@@ -196,7 +196,7 @@ span{
     text-align:center;
  
     }
-@media only screen and (max-width:480px){
+/**@media only screen and (max-width:480px){
  #Laron #Duche  #riviere #Curel #Carrey{
     height:480px;
   }
@@ -216,4 +216,4 @@ span{
  #Laron #Duche  #riviere #Curel #Carrey{
     height:2000px;
   }
-}
+}**/
